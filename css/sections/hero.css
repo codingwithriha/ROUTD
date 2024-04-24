@@ -1,0 +1,33 @@
+
+  
+  .hero {
+    margin-top: 15%;
+    padding-left: 380px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .hero__heading {
+    font-size: 80px;
+    font-weight: 600px;
+    font-family: var(--poppins);
+    color: var(--color-white);
+    align-content: center;
+  }
+  .hero__heading .help{
+    align-items: center;
+    justify-content: center;
+    padding-left: 270px;
+  }
+  
+  .hero p {
+    margin: 32px 0 0 32px;
+    padding-left: 120px;
+  
+    font-family: var(--plus-jakarta-sans);
+    color: var(--color-white);
+    font-size: 18px;
+    font-weight: 400;
+  }

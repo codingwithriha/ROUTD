@@ -1,0 +1,65 @@
+.footer{
+    background: var(--primary-color);
+    background-size: cover;
+    padding: 100px;
+}
+.routd{
+    padding: 40px 0px;
+}
+.secondry__logos{
+    padding-bottom: 50px;
+}
+.footer__content{
+    flex: 1;
+    display: flex;
+
+    
+}
+.secondry__logos{
+    flex: 1;
+    display: flex;
+}
+.footer__data{
+    flex: 1;
+    display: flex;
+
+    padding-left: 450px ;
+}
+.last__links{
+    flex: 1;
+    display: flex;
+    
+}
+.left__links{
+    flex: 1;
+    display: flex;
+}
+.last{
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    background: var(--primary-color);
+    padding: 20px 0px 20px 100px;
+}
+.features-padding{
+    padding-right: 150px;
+}
+.features{
+    padding-left: 0 ;
+}
+.features__heading{
+    color: var(--color-white);
+}
+.company__heading{
+    color: var(--color-white);
+}
+.legal__heading{
+    color: var(--color-white);
+}
+.footer__data a{
+    color: rgba(255, 255, 255, 0.6);
+}
+.left__links{
+    padding-left: 1150px;
+}
+.right__reserved{
+    color: rgba(255, 255, 255, 0.6);
+}
